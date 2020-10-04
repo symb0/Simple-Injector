@@ -1,1 +1,1 @@
-simple csgo loadlibrary injector bypassing the anti-loadlibrary
+Simple csgo LoadLibrary injector bypassing the anti-loadlibrary protection
