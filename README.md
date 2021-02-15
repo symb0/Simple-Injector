@@ -1,6 +1,6 @@
 Simple Injector which uses the standard LoadLibrary injection method with the ability to bypass csgo's LoadLibrary prevention.
 
-You can configure the process name & dll path in a file.
+You can configure the Process Name & DLL Path in a file.
 
 In order to compile, you need to have at least a C++17 compiler. If you have an older version of the compiler, then instead of using structured binding declaration to return multiple values, use std::tie or std::get.
 
