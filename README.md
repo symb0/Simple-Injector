@@ -1,4 +1,4 @@
-Simple injector which uses the standard LoadLibrary injection method with the ability to bypass csgo's LoadLibrary prevention.
+Simple Injector which uses the standard LoadLibrary injection method with the ability to bypass csgo's LoadLibrary prevention.
 
 You can configure the process name & dll path in a file.
 
