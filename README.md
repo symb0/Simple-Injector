@@ -6,4 +6,4 @@ In order to compile, you need to have at least a C++17 compiler. If you have an 
 
 For those only looking for the executable files (x86 & x64), here's the download link: https://www.mediafire.com/file/v3ry7f8mnt8q69k/Simple_Injector.zip/file
 
-Make sure you read the "README" file before asking anything.
+Make sure you read the "README" text file before asking anything.
