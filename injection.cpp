@@ -10,7 +10,8 @@ bool Injection::csgoBypass()
 
 		char bytes[5];
 
-		std::memcpy(originalBytes, NtOpenFile, 5);
+		std::memcpy(bytes, NtOpenFile, 5);
+		ReadProcessMemory(handle, NtOpenFile, originalBytes, 5, nullptr);
 		WriteProcessMemory(handle, NtOpenFile, bytes, 5, nullptr);
 
 		return true;
